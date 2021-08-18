@@ -6,7 +6,6 @@ export const Footer = () => {
             <div className="grid gap-10 row-gap-6 mb-8 sm:grid-cols-2 lg:grid-cols-4">
                 <div className="sm:col-span-2">
                     <a
-                        href="/"
                         aria-label="Go home"
                         title="Company"
                         className="inline-flex items-center"
@@ -71,7 +70,7 @@ export const Footer = () => {
           </span>
                     <div className="flex items-center mt-1 space-x-3">
                         <a
-                            href="/"
+
                             className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
@@ -79,7 +78,7 @@ export const Footer = () => {
                             </svg>
                         </a>
                         <a
-                            href="/"
+
                             className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             <svg viewBox="0 0 30 30" fill="currentColor" className="h-6">
@@ -88,7 +87,7 @@ export const Footer = () => {
                             </svg>
                         </a>
                         <a
-                            href="/"
+
                             className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
@@ -108,7 +107,7 @@ export const Footer = () => {
                 <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
                     <li>
                         <a
-                            href="/"
+
                             className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             F.A.Q
@@ -116,7 +115,7 @@ export const Footer = () => {
                     </li>
                     <li>
                         <a
-                            href="/"
+
                             className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             Privacy Policy
@@ -124,7 +123,7 @@ export const Footer = () => {
                     </li>
                     <li>
                         <a
-                            href="/"
+
                             className="text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                         >
                             Terms &amp; Conditions
